@@ -16,7 +16,7 @@
 
 ## Description
 
-- 응집제 주입률, 미래 탁도 예측 및 알람 기능
+- 안면인식 보안강화
 
 
 <p align="center">
