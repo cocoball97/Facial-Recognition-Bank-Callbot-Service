@@ -28,7 +28,7 @@
 - Prompt Engineering
 
 <p align="center">
-  <img src="https://github.com/cocoball97/Facial-Recognition-Bank-Callbot-Service/assets/125456345/925710e6-16ca-45ab-b3b9-9e80500288db" width="1000" height="400" /> 
+  <img src="https://github.com/cocoball97/Facial-Recognition-Bank-Callbot-Service/assets/125456345/925710e6-16ca-45ab-b3b9-9e80500288db" width="700" height="250" /> 
 </p>
 
 
