@@ -1,4 +1,3 @@
-# Facial-Recognition-Bank-Callbot-Service
 # 안면인식 은행 콜봇 서비스
 
 
