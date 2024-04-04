@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <a href="https://courageous-divan-62d.notion.site/GPT-06fb348ddc7e425d9a8568d51db9ecaf">
+  <a href="https://cocoball.notion.site/GPT-57727aec8bf948c0933ebc1e87c66d43">
     <img width="70%" src="https://github.com/cocoball97/Facial-Recognition-Bank-Callbot-Service/assets/125456345/e78c5ed0-af91-4534-99d3-848e267fcde4" alt="은행콜봇 프로젝트"/>
   </a>
   <br> <!-- 줄바꿈 -->
-  <a href="https://courageous-divan-62d.notion.site/GPT-06fb348ddc7e425d9a8568d51db9ecaf">클릭해서 시연영상을 확인하세요</a>
+  <a href="https://cocoball.notion.site/GPT-57727aec8bf948c0933ebc1e87c66d43">클릭해서 시연영상을 확인하세요</a>
 </p>
 
 
